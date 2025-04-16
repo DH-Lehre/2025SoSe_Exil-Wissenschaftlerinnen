@@ -35,7 +35,7 @@ In der forschungsorientierten Lehrveranstaltung setzen sich die Studierenden mit
 **Weiterführende Links und Literatur:**
 
 * Link zum **DDF:** https://www.digitales-deutsches-frauenarchiv.de
-* Link zum **akhfg:** https://akhfg.de
+* Link zum **Frauen im Exil:** https://www.exilforschung.de/ag-frauen-im-exil/archiv/
 * Link zum **Center for the History of Women Philosophers and Scientists**: https://historyofwomenphilosophers.org/
 
 ## Allgemeines und erste Sitzung
