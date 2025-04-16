@@ -86,3 +86,4 @@ Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
 * [Kirsten Heinsohn](https://docupedia.de/zg/Docupedia:Kirsten_Heinsohn "Docupedia:Kirsten Heinsohn"), [Claudia Kemper](https://docupedia.de/zg/Docupedia:Claudia_Kemper "Docupedia:Claudia Kemper"), Geschlechtergeschichte, in: Docupedia-Zeitgeschichte, 04.12.2012, [http://docupedia.de/zg/heinsohn_kemper_geschlechtergeschichte_v1_de_2012](https://docupedia.de/zg/Docupedia:Kirsten_Heinsohn)
 * (und darauf aufbauend:) [Sylvia Schraut: Mädchen- und Frauenbildung, Digitales Deutsches Frauenarchiv](https://www.digitales-deutsches-frauenarchiv.de/themen/maedchen-und-frauenbildung)
 * Ute Gerhard, Frauenbewegung, S. 188-217 (im Olat-Ordner).
+* Inge Hansen-Schaberg / Hiktrud Häntzschel: Alma Maters Töchter im Exil - Zur Vertreibung von Wissenschaftlerinnen und Akademikerinnen in der NS-Zeit. München 2011, Einleitung,, S. 13-19.
