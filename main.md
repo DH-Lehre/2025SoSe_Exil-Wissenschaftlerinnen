@@ -84,6 +84,12 @@ Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
 
 * Leonie Schöler: Beklaute Frauen: Denkerinnen, Forscherinnen, Pionierinnen: Die unsichtbaren Heldinnen der Geschichte. München 2024, Einleitung, S. 11-23 (im Olat-Ordner).
 * [Kirsten Heinsohn](https://docupedia.de/zg/Docupedia:Kirsten_Heinsohn "Docupedia:Kirsten Heinsohn"), [Claudia Kemper](https://docupedia.de/zg/Docupedia:Claudia_Kemper "Docupedia:Claudia Kemper"), Geschlechtergeschichte, in: Docupedia-Zeitgeschichte, 04.12.2012, [http://docupedia.de/zg/heinsohn_kemper_geschlechtergeschichte_v1_de_2012](https://docupedia.de/zg/Docupedia:Kirsten_Heinsohn)
-* (und darauf aufbauend:) [Sylvia Schraut: Mädchen- und Frauenbildung, Digitales Deutsches Frauenarchiv](https://www.digitales-deutsches-frauenarchiv.de/themen/maedchen-und-frauenbildung)
+
+## Sitzung am 24.04.
+
+### Aufgabe zur nächsten Woche
+
+Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
+
 * Ute Gerhard, Frauenbewegung, S. 188-217 (im Olat-Ordner).
-* Inge Hansen-Schaberg / Hiltrud Häntzschel: Alma Maters Töchter im Exil - Zur Vertreibung von Wissenschaftlerinnen und Akademikerinnen in der NS-Zeit. München 2011, Einleitung,, S. 13-19.
+* Inge Hansen-Schaberg / Hiltrud Häntzschel: Alma Maters Töchter im Exil - Zur Vertreibung von Wissenschaftlerinnen und Akademikerinnen in der NS-Zeit. München 2011, Einleitung, S. 13-19.
