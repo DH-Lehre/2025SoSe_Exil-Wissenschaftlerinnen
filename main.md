@@ -87,17 +87,18 @@ Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
 
 ## Sitzung am 24.04.
 
-Gruppenarbeit Mind-Map 
+Gruppenarbeit Mind-Map (ca. 30 Min. Gruppenarbeit + 30 Min. Präsentation)
 
-* Bitte recherchieren Sie gemeinsam im Internet, welche öffentlichen Erinnerungsformen es im Kieler Stadtraum gibt, die sich mit dem Gedenken an Frauen beschäftigen (bspw. Straßennamen, Plätze, Denkmäler, Wohn- und Studierendenheime, etc.). Notieren Sie bitte min. 5 Erinnerungsorte.
+* Bitte recherchieren Sie gemeinsam im Internet, welche öffentlichen historische Stadtmarkierungen es in Kiel gibt, die sich mit dem Gedenken an Frauen beschäftigen (bspw. Straßennamen, Plätze, Denkmäler, Wohn- und Studierendenheime, etc.). Notieren Sie bitte min. 5 Erinnerungsformen.
 * Notieren Sie für eine der recherchierten Frauen weitere Informationen zu ihrem Lebenslauf und mögliche Gründe, warum ihr im öffentlichen Raum gedacht wird.
-* Finden Sie in den Biographien der Frauen weitere Diskriminierungskategorien außer das Geschlecht? (bspw. Religion, soziale / ethnische Herkunft, Alter, Bildungsgrad etc.)
+* Finden Sie in den Biographien der Frauen weitere Diskriminierungskategorien außer dem Geschlecht? (bspw. Religion, soziale / ethnische Herkunft, Alter, Bildungsgrad etc.)
+* Wer bestimmt in unserer aktuellen und in den vergangenen Gesellschaften, welche  Was zeichnet diese Personen aus?
   
-* Fassen Sie bitte alles in Form einer Mind-Map zusammen und erläutern kurz die Ergebnisse.
-
+* Fassen Sie bitte Ihre Ergebnisse in Form einer Mind-Map zusammen und erläutern kurz die Ergebnisse.
 
 ## Definition Frauengeschichte (nach Kirsten Heinsohn):
 "Ordnungsideen beeinflussen die gesellschaftlichen Vorstellungen von den Aufgaben und Handlungsräumen von Männern und Frauen und prägen deren Lebenswirklichkeit. Frauengeschichte untersucht hierbei vor allem, unter welchen Bedingungen sich Handlungsmöglichkeiten, Normen und soziale Praxen für Frauen änderten."
+
 ## Geschlechtergeschichte (nach Kirsten Heinsohn)::
 "Umfassender als die Frauengeschichte will die Geschlechtergeschichte die vielfältigen Beziehungsgeflechte und sozialen Konstruktionen von Gesellschaften erforschen, die im Zeichen geschlechtsspezifischer Zuordnungen ihre Gültigkeit erlangen."
 
@@ -105,5 +106,5 @@ Gruppenarbeit Mind-Map
 
 Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
 
-* Ute Gerhard, Frauenbewegung, S. 188-217 (im Olat-Ordner).
+* Moritz Florin, Victoria Gutsche, Natalie Krentz (Hg.): Diversität historisch - Repräsentationen und Praktiken gesellschaftlicher Differenzierung im Wandel, 2018. (Olat-Ordner)
 * Inge Hansen-Schaberg / Hiltrud Häntzschel: Alma Maters Töchter im Exil - Zur Vertreibung von Wissenschaftlerinnen und Akademikerinnen in der NS-Zeit. München 2011, Einleitung, S. 13-19.
