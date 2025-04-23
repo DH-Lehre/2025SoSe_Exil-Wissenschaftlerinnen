@@ -87,6 +87,17 @@ Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
 
 ## Sitzung am 24.04.
 
+Gruppenarbeit Mind-Map
+
+* Bitte notieren Sie die zentralen Themen, Ereignisse und Theorien aus dem Text von Ute Gerhard zur "Frauenbewegung" und Kirsten Heinsohn, Claudia Kemper zur "Geschlechtergeschichte", die Sie als wichtig erachten. Dabei sollten Sie die grundlegenden Begriffe "Frauenbewegung" sowie "Frauen- und Geschlechtergeschichte" zusammenführen als auch voneinander abgrenzen.
+
+* Reflektieren Sie in der Gruppe die gelesenen Texte unter der Leitfragen:
+  1. Inwiefern gibt es in den Texten Ansatzpunkte für heutige Diskurse zur Geschlechtergeschichte, bspw. im digitalen Raum?
+  2. Inwiefern tragen digitale Plattformen (z.B. Wikipedia, soziale Medien) dazu bei, dass Frauengeschichte sichtbarer wird?
+  3. Wie beeinflusst der digitale Raum den heutigen Diskurs über Frauen- und Geschlechtergeschichte?
+
+* Die Gruppe präsentiert ihre Mind-Map und erläutert kurz die erarbeiteten Ergebnisse.
+
 ### Aufgabe zur nächsten Woche
 
 Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
