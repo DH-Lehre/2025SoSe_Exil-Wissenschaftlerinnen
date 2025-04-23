@@ -87,17 +87,19 @@ Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
 
 ## Sitzung am 24.04.
 
-Gruppenarbeit Mind-Map
+Gruppenarbeit Mind-Map 
 
-* Bitte recherchieren Sie gemeinsam im Internet, welche öffentlichen Erinnerungsformen es im Kieler Stadtraum gibt, die sich mit dem Gedenken an Frauen beschäftigen. (Bspw. Straßennamen, Plätze, Denkmäler, Wohn- und Studierendenheime, etc.)
+* Bitte recherchieren Sie gemeinsam im Internet, welche öffentlichen Erinnerungsformen es im Kieler Stadtraum gibt, die sich mit dem Gedenken an Frauen beschäftigen (bspw. Straßennamen, Plätze, Denkmäler, Wohn- und Studierendenheime, etc.). Notieren Sie bitte min. 5 Erinnerungsorte.
 * Notieren Sie für eine der recherchierten Frauen weitere Informationen zu ihrem Lebenslauf und mögliche Gründe, warum ihr im öffentlichen Raum gedacht wird.
+* Finden Sie in den Biographien der Frauen weitere Diskriminierungskategorien außer das Geschlecht? (bspw. Religion, soziale / ethnische Herkunft, Alter, Bildungsgrad etc.)
+  
+* Fassen Sie bitte alles in Form einer Mind-Map zusammen und erläutern kurz die Ergebnisse.
 
-* Reflektieren Sie in der Gruppe die gelesenen Texte unter der Leitfragen:
-1. Inwiefern gibt es in den Texten Ansatzpunkte für heutige Diskurse zur Geschlechtergeschichte, bspw. im digitalen Raum?
-2. Inwiefern tragen digitale Plattformen (z.B. Wikipedia, soziale Medien) dazu bei, dass Frauengeschichte sichtbarer wird?
-3. Wie beeinflusst der digitale Raum den heutigen Diskurs über Frauen- und Geschlechtergeschichte?
 
-* Die Gruppe präsentiert ihre Mind-Map und erläutert kurz die erarbeiteten Ergebnisse.
+## Definition Frauengeschichte (nach Kirsten Heinsohn):
+"Ordnungsideen beeinflussen die gesellschaftlichen Vorstellungen von den Aufgaben und Handlungsräumen von Männern und Frauen und prägen deren Lebenswirklichkeit. Frauengeschichte untersucht hierbei vor allem, unter welchen Bedingungen sich Handlungsmöglichkeiten, Normen und soziale Praxen für Frauen änderten."
+## Geschlechtergeschichte (nach Kirsten Heinsohn)::
+"Umfassender als die Frauengeschichte will die Geschlechtergeschichte die vielfältigen Beziehungsgeflechte und sozialen Konstruktionen von Gesellschaften erforschen, die im Zeichen geschlechtsspezifischer Zuordnungen ihre Gültigkeit erlangen."
 
 ### Aufgabe zur nächsten Woche
 
