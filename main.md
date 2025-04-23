@@ -87,7 +87,7 @@ Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
 
 ## Sitzung am 24.04.
 
-Gruppenarbeit Mind-Map (ca. 30 Min. Gruppenarbeit + 30 Min. Präsentation)
+### Gruppenarbeit Mind-Map (ca. 30 Min. Gruppenarbeit + 30 Min. Präsentation)
 
 * Bitte recherchieren Sie gemeinsam im Internet, welche öffentlichen historische Stadtmarkierungen es in Kiel gibt, die sich mit dem Gedenken an Frauen beschäftigen (bspw. Straßennamen, Plätze, Denkmäler, Wohn- und Studierendenheime, etc.). Notieren Sie bitte min. 5 Erinnerungsformen.
 * Notieren Sie für eine der recherchierten Frauen weitere Informationen zu ihrem Lebenslauf und mögliche Gründe, warum ihr im öffentlichen Raum gedacht wird.
