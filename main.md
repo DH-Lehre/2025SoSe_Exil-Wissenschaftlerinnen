@@ -105,6 +105,8 @@ Gruppenarbeit Mind-Map (ca. 30 Min. Gruppenarbeit + 30 Min. Präsentation)
 ### Konzept der Intersektionalität
 * "Den Begriff Intersectionality prägte die Professorin Kimberlé W. Crenshaw 1989 in den USA. Sie erforschte, wie mehrfach marginalisierte Frauen diskriminiert werden. Dabei bediente sie sich der Metapher der Straßenkreuzung (englisch: „intersection“). Wenn sich verschiedene Merkmale bzw. Marginalisierungen in einer Person kreuzen, kann diese von einer spezifischen Form der Diskriminierung betroffen sein, die jemand mit einer anderen Kombination von Merkmalen nicht erlebt."
 
+![Intersektionalität](img/Intersektionalität.png")
+
 
 ### Aufgabe zur nächsten Woche
 
