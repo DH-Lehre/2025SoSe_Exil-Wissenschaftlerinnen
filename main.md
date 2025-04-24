@@ -91,21 +91,16 @@ Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
 > Sind  Geschlechterstereotype aktuell überwunden? Was meinen Sie?
 
 {{1}}
-
-> *Die bereits erwähnten Stereotypen und bestehenden Vorurteile gegenüber Frauen sind weiterhin präsent, wie eine aktuelle Untersuchung zur "Darstellung von Geschlechterrollen in sozialen Medien und deren Einfluss auf die Geschlechtergerechtigkeit" verdeutlicht:*
+Die bereits erwähnten Stereotypen und bestehenden Vorurteile gegenüber Frauen sind weiterhin präsent, wie eine aktuelle Untersuchung zur "Darstellung von Geschlechterrollen in sozialen Medien und deren Einfluss auf die Geschlechtergerechtigkeit" verdeutlicht:
 
 {{2}}
-![Rollenbildern in den sozialen Medien](img/Bild1.jpg)
+![Rollenbildern in den sozialen Medien](img/Bild1.jpg "Quelle: <https://www.plan.de/rollenbilder-in-social-media.html?sc=IDQ24200>")
+
+---
 
 {{3}}
+![Rollenbildern in den sozialen Medien](img/Bild2.jpg "Quelle: <https://www.plan.de/rollenbilder-in-social-media.html?sc=IDQ24200>")
 
----
-
-![Rollenbildern in den sozialen Medien](img/Bild2.jpg)
-
-Quelle: <https://www.plan.de/rollenbilder-in-social-media.html?sc=IDQ24200>
-
----
 
 ### Gruppenarbeit Mind-Map 
 
@@ -117,6 +112,18 @@ Quelle: <https://www.plan.de/rollenbilder-in-social-media.html?sc=IDQ24200>
 Fassen Sie bitte Ihre Ergebnisse in Form einer Mind-Map zusammen und erläutern kurz die Ergebnisse.
 
 (ca. 30 Min. Gruppenarbeit + 30 Min. Präsentation)
+
+#### Gruppe 1
+
+![Mind Map von Gruppe 1](img/20250424_112320.jpg)
+
+#### Gruppe 2
+
+![Mind Map von Gruppe 2](img/20250424_113311.jpg)
+
+#### Gruppe 3
+
+![Mind Map von Gruppe 3](img/20250424_114541.jpg)
 
 ### Definition Frauengeschichte
 
