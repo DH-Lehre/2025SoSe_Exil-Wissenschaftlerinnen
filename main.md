@@ -57,9 +57,8 @@ In der forschungsorientierten Lehrveranstaltung setzen sich die Studierenden mit
 | 12.06. | Daten und Metadaten |
 | 19.06. | Arbeitssitzung: Datenerfassung in und mit Nodegoat |
 | 26.06. | Prosopographisches Arbeiten mit Nodegoat |
-| 03.07. | Weitere Analysemöglichkeiten |
-| 10.07. | Arbeitssitzung: Analyse |
-| 06.02. | Präsentation der (Zwischen-)Ergebnisse, Evaluation |
+| 03.07. | Weitere Analysemöglichkeiten u. Arbeitssitzung Analyse |
+| 10.07. | Präsentation der (Zwischen-)Ergebnisse, Evaluation |
 
 ### Forschungs(daten)zyklus
 
@@ -87,26 +86,51 @@ Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
 
 ## Sitzung am 24.04.
 
-### Gruppenarbeit Mind-Map (ca. 30 Min. Gruppenarbeit + 30 Min. Präsentation)
+### Aktuelle Debatten um Stereotypen
 
-* Bitte recherchieren Sie gemeinsam im Internet, welche öffentlichen historische Stadtmarkierungen es in Kiel gibt, die sich mit dem Gedenken an Frauen beschäftigen (bspw. Straßennamen, Plätze, Denkmäler, Wohn- und Studierendenheime, etc.). Notieren Sie bitte min. 5 Erinnerungsformen.
-* Notieren Sie für eine der recherchierten Frauen weitere Informationen zu ihrem Lebenslauf und mögliche Gründe, warum ihr im öffentlichen Raum gedacht wird.
-* Finden Sie in den Biographien der Frauen weitere Diskriminierungskategorien außer dem Geschlecht? (bspw. Religion, soziale / ethnische Herkunft, Alter, Bildungsgrad etc.)
-* Wer bestimmte und bestimmt in unserer Gesellschaft über bestehende Machtverhältnisse?  Was zeichnet diese Personen aus?
+> Sind  Geschlechterstereotype aktuell überwunden? Was meinen Sie?
+
+{{1}}
+
+> *Die bereits erwähnten Stereotypen und bestehenden Vorurteile gegenüber Frauen sind weiterhin präsent, wie eine aktuelle Untersuchung zur "Darstellung von Geschlechterrollen in sozialen Medien und deren Einfluss auf die Geschlechtergerechtigkeit" verdeutlicht:*
+
+{{2}}
+![Rollenbildern in den sozialen Medien](img/Bild1.jpg)
+
+{{3}}
+
+---
+
+![Rollenbildern in den sozialen Medien](img/Bild2.jpg)
+
+Quelle: <https://www.plan.de/rollenbilder-in-social-media.html?sc=IDQ24200>
+
+---
+
+### Gruppenarbeit Mind-Map 
+
+1. Bitte recherchieren Sie gemeinsam im Internet, welche öffentlichen historische Stadtmarkierungen es in Kiel gibt, die sich mit dem Gedenken an Frauen beschäftigen (bspw. Straßennamen, Plätze, Denkmäler, Wohn- und Studierendenheime, etc.). Notieren Sie bitte min. 5 *Erinnerungsformen*.
+2. Notieren Sie für eine der recherchierten Frauen weitere Informationen zu ihrem Lebenslauf und mögliche Gründe, warum ihr im öffentlichen Raum gedacht wird.
+3. Finden Sie in den Biographien der Frauen weitere Diskriminierungskategorien außer dem Geschlecht? (bspw. Religion, soziale / ethnische Herkunft, Alter, Bildungsgrad etc.)
+4. Wer bestimmte und bestimmt in unserer Gesellschaft über bestehende Machtverhältnisse?  Was zeichnet diese Personen aus?
   
-* Fassen Sie bitte Ihre Ergebnisse in Form einer Mind-Map zusammen und erläutern kurz die Ergebnisse.
+Fassen Sie bitte Ihre Ergebnisse in Form einer Mind-Map zusammen und erläutern kurz die Ergebnisse.
 
-### Definition Frauengeschichte:
-"Ordnungsideen beeinflussen die gesellschaftlichen Vorstellungen von den Aufgaben und Handlungsräumen von Männern und Frauen und prägen deren Lebenswirklichkeit. Frauengeschichte untersucht hierbei vor allem, unter welchen Bedingungen sich Handlungsmöglichkeiten, Normen und soziale Praxen für Frauen änderten." (nach Kirsten Heinsohn)
+(ca. 30 Min. Gruppenarbeit + 30 Min. Präsentation)
 
-### Definition Geschlechtergeschichte:
-"Umfassender als die Frauengeschichte will die Geschlechtergeschichte die vielfältigen Beziehungsgeflechte und sozialen Konstruktionen von Gesellschaften erforschen, die im Zeichen geschlechtsspezifischer Zuordnungen ihre Gültigkeit erlangen." (nach Kirsten Heinsohn)
+### Definition Frauengeschichte
+
+> "Ordnungsideen beeinflussen die gesellschaftlichen Vorstellungen von den Aufgaben und Handlungsräumen von Männern und Frauen und prägen deren Lebenswirklichkeit. Frauengeschichte untersucht hierbei vor allem, unter welchen Bedingungen sich Handlungsmöglichkeiten, Normen und soziale Praxen für Frauen änderten." (nach Kirsten Heinsohn)
+
+### Definition Geschlechtergeschichte
+
+> "Umfassender als die Frauengeschichte will die Geschlechtergeschichte die vielfältigen Beziehungsgeflechte und sozialen Konstruktionen von Gesellschaften erforschen, die im Zeichen geschlechtsspezifischer Zuordnungen ihre Gültigkeit erlangen." (nach Kirsten Heinsohn)
 
 ### Konzept der Intersektionalität
-* "Den Begriff Intersectionality prägte die Professorin Kimberlé W. Crenshaw 1989 in den USA. Sie erforschte, wie mehrfach marginalisierte Frauen diskriminiert werden. Dabei bediente sie sich der Metapher der Straßenkreuzung (englisch: „intersection“). Wenn sich verschiedene Merkmale bzw. Marginalisierungen in einer Person kreuzen, kann diese von einer spezifischen Form der Diskriminierung betroffen sein, die jemand mit einer anderen Kombination von Merkmalen nicht erlebt."
 
-![Intersektionalität](img/Intersektionalität.png)
+> "Den Begriff Intersectionality prägte die Professorin Kimberlé W. Crenshaw 1989 in den USA. Sie erforschte, wie mehrfach marginalisierte Frauen diskriminiert werden. Dabei bediente sie sich der Metapher der Straßenkreuzung (englisch: „intersection“). Wenn sich verschiedene Merkmale bzw. Marginalisierungen in einer Person kreuzen, kann diese von einer spezifischen Form der Diskriminierung betroffen sein, die jemand mit einer anderen Kombination von Merkmalen nicht erlebt."
 
+![Intersektionalität](img/intersektionalitaet.png)
 
 ### Aufgabe zur nächsten Woche
 
@@ -114,3 +138,7 @@ Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
 
 * Moritz Florin, Victoria Gutsche, Natalie Krentz (Hg.): Diversität historisch - Repräsentationen und Praktiken gesellschaftlicher Differenzierung im Wandel, 2018. (Olat-Ordner)
 * Inge Hansen-Schaberg / Hiltrud Häntzschel: Alma Maters Töchter im Exil - Zur Vertreibung von Wissenschaftlerinnen und Akademikerinnen in der NS-Zeit. München 2011, Einleitung, S. 13-19.
+* Grüttner, M. (2021). The Expulsion of Academic Teaching Staff from German Universities, 1933–45. Journal of Contemporary History, 57(3), 513–533. https://doi.org/10.1177/00220094211063074 (frei verfügbar, hier: https://api-depositonce.tu-berlin.de/server/api/core/bitstreams/8d843318-c8d0-4f11-9b01-0c1b06689006/content)
+
+## Sitzung am 08.05. 
+
