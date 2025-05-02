@@ -144,7 +144,7 @@ Fassen Sie bitte Ihre Ergebnisse in Form einer Mind-Map zusammen und erläutern 
 Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
 
 * Moritz Florin, Victoria Gutsche, Natalie Krentz (Hg.): Diversität historisch - Repräsentationen und Praktiken gesellschaftlicher Differenzierung im Wandel, 2018. (Olat-Ordner)
-* Inge Hansen-Schaberg / Hiltrud Häntzschel: Alma Maters Töchter im Exil - Zur Vertreibung von Wissenschaftlerinnen und Akademikerinnen in der NS-Zeit. München 2011, Einleitung, S. 13-19.
+* Annette Vogt: Wissenschaftlerinnen im Exil - Abbruch, Neubeginn oder Erfolg der Karriere, S. 19-46, in: Inge Hansen-Schaberg / Hiltrud Häntzschel (Hg.): Alma Maters Töchter im Exil - Zur Vertreibung von Wissenschaftlerinnen und Akademikerinnen in der NS-Zeit. München 2011.
 * Grüttner, M. (2021). The Expulsion of Academic Teaching Staff from German Universities, 1933–45. Journal of Contemporary History, 57(3), 513–533. https://doi.org/10.1177/00220094211063074 (frei verfügbar, hier: https://api-depositonce.tu-berlin.de/server/api/core/bitstreams/8d843318-c8d0-4f11-9b01-0c1b06689006/content)
 
 ## Sitzung am 08.05. 
