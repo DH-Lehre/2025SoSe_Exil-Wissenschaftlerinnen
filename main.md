@@ -133,11 +133,6 @@ Fassen Sie bitte Ihre Ergebnisse in Form einer Mind-Map zusammen und erläutern 
 
 > "Umfassender als die Frauengeschichte will die Geschlechtergeschichte die vielfältigen Beziehungsgeflechte und sozialen Konstruktionen von Gesellschaften erforschen, die im Zeichen geschlechtsspezifischer Zuordnungen ihre Gültigkeit erlangen." (nach Kirsten Heinsohn)
 
-### Konzept der Intersektionalität
-
-> "Den Begriff Intersectionality prägte die Professorin Kimberlé W. Crenshaw 1989 in den USA. Sie erforschte, wie mehrfach marginalisierte Frauen diskriminiert werden. Dabei bediente sie sich der Metapher der Straßenkreuzung (englisch: „intersection“). Wenn sich verschiedene Merkmale bzw. Marginalisierungen in einer Person kreuzen, kann diese von einer spezifischen Form der Diskriminierung betroffen sein, die jemand mit einer anderen Kombination von Merkmalen nicht erlebt."
-
-![Intersektionalität](img/intersektionalitaet.png)
 
 ### Aufgabe zur nächsten Woche
 
@@ -149,3 +144,17 @@ Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
 
 ## Sitzung am 08.05. 
 
+### Konzept der Intersektionalität
+
+> "Intersektionalität“ (von englisch Intersection = Straßenkreuzung) ist ein Konzept, das maßgeblich von Kimberlé Crenshaw (Race/Class/Gender) entwickelt wurde.
+> Es beschreibt, wie verschiedene soziale Kategorien wie z.B. Geschlecht, Ethnizität, soziale Herkunft oder sexuelle Orientierung nicht nur additiv wirken, sondern in ihrem Zusammenspiel neue, spezifische Formen von Diskriminierung und Privilegien erzeugen.
+> Das Konzept hilft, die komplexen Wechselwirkungen historischer und gesellschaftlicher Machtstrukturen zu verstehen.
+
+![Intersektionalität](img/intersektionalitaet.png)
+
+## Wie kann das Konzept der Geschichtswissenschaft dienen?
+> Differenziertes und mehrdimensionales Verständnis von historischen Prozessen und Dynamiken.
+> Verständnis von individuellen Realitäten innerhalb homogen wirkender Gruppen.
+> Erkennen der Verwobenheit von Lebensrealitäten auf individueller Ebene.
+
+* Beispiel: Was bedeutete es 1953 in Deutschland, ein schwuler Mann mit Depressionen zu sein?
