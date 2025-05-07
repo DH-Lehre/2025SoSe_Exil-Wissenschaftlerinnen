@@ -146,15 +146,15 @@ Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
 
 ### Konzept der Intersektionalität
 
-> "Intersektionalität“ (von englisch Intersection = Straßenkreuzung) ist ein Konzept, das maßgeblich von Kimberlé Crenshaw (Race/Class/Gender) entwickelt wurde.
-> Es beschreibt, wie verschiedene soziale Kategorien wie z.B. Geschlecht, Ethnizität, soziale Herkunft oder sexuelle Orientierung nicht nur additiv wirken, sondern in ihrem Zusammenspiel neue, spezifische Formen von Diskriminierung und Privilegien erzeugen.
-> Das Konzept hilft, die komplexen Wechselwirkungen historischer und gesellschaftlicher Machtstrukturen zu verstehen.
+* "Intersektionalität“ (von englisch Intersection = Straßenkreuzung) ist ein Konzept, das maßgeblich von Kimberlé Crenshaw (Race/Class/Gender) entwickelt wurde.
+* Es beschreibt, wie verschiedene soziale Kategorien wie z.B. Geschlecht, Ethnizität, soziale Herkunft oder sexuelle Orientierung nicht nur additiv wirken, sondern in ihrem Zusammenspiel neue, spezifische Formen von Diskriminierung und Privilegien erzeugen.
+* Das Konzept hilft, die komplexen Wechselwirkungen historischer und gesellschaftlicher Machtstrukturen zu verstehen.
 
 ![Intersektionalität](img/intersektionalitaet.png)
 
-## Wie kann das Konzept der Geschichtswissenschaft dienen?
-> Differenziertes und mehrdimensionales Verständnis von historischen Prozessen und Dynamiken.
-> Verständnis von individuellen Realitäten innerhalb homogen wirkender Gruppen.
-> Erkennen der Verwobenheit von Lebensrealitäten auf individueller Ebene.
+### Wie kann das Konzept der Geschichtswissenschaft dienen?
+* Differenziertes und mehrdimensionales Verständnis von historischen Prozessen und Dynamiken.
+* Verständnis von individuellen Realitäten innerhalb homogen wirkender Gruppen.
+* Erkennen der Verwobenheit von Lebensrealitäten auf individueller Ebene.
 
-* Beispiel: Was bedeutete es 1953 in Deutschland, ein schwuler Mann mit Depressionen zu sein?
+> Beispiel: Was bedeutete es 1953 in Deutschland, ein schwuler Mann mit Depressionen zu sein?
