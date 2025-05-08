@@ -49,12 +49,12 @@ In der forschungsorientierten Lehrveranstaltung setzen sich die Studierenden mit
 | 17.04. | Begrüßung, Organisatorisches, Erwartungen, Fragen |           
 | 24.04. | Inhaltliche Einführung in den Themenbereich "Frauen- und Geschlechtergeschichte" | 
 | 01.05. | **FEIERTAG - KEIN SEMINAR** | 
-| 08.05. | Forschung in der Weimarer Republik und während des Nationalsozialismus |
-| 15.05. | Wissenschaftlerinnen im Exil |
-| 22.05. | Methode: Prosopographie |
+| 08.05. | Wissenschaftlerinnen im Exil, Forschung in der Weimarer Republik und während des Nationalsozialismus |
+| 15.05. | Methode: Prosopographie |
+| 22.05. | Philosophinnen im Exil, mögliche Forschungsfragen |
 | 29.05. | **FEIERTAG - KEIN SEMINAR**  |
-| 05.06. | Einführung in Nodegoat |
-| 12.06. | Daten und Metadaten |
+| 05.06. | Daten und Metadaten |
+| 12.06. | Einführung in Nodegoat |
 | 19.06. | Arbeitssitzung: Datenerfassung in und mit Nodegoat |
 | 26.06. | Prosopographisches Arbeiten mit Nodegoat |
 | 03.07. | Weitere Analysemöglichkeiten u. Arbeitssitzung Analyse |
@@ -144,6 +144,19 @@ Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
 
 ## Sitzung am 08.05. 
 
+### Aufgabe
+
+Denken Sie in Kleingruppen von 3 bis 4 Personen über die Texte nach, jede Gruppe beschäftigt sich mit einem Text. Reflektieren Sie die wichtigsten Aussagen der Texte anhand der Exilierungsgeschichte von Aenne Liebreich ([Biographie bei der CAU](https://www.uni-kiel.de/de/universitaet/profil/geschichte-der-universitaet/ns-aufarbeitung/vertriebene-gelehrte), [Biographie des Studentenwerks](https://studentenwerk.sh/de/geschichte-eines-namenswechsels), [Dictionary of Art Historians](https://arthistorians.info/liebreicha)): 
+
+1. Welche Intersektionalitätsdimensionen lassen sich anhand der Person von Aenne Liebreich identifizieren? Was ist der Mehrwert einer solchen Betrachtung für die Geschichtswissenschaften?
+2. Wie lassen sich die "Fünf Voraussetzungen für Wissenschaftlerinnen und ihren Erfolg im Exil" von Annette Vogt auf Liebreich anwenden?
+3. Wie lässt sich Liebreich in den Exilierungsphasen von Grüttner verorten? Wie ordnet Grüttner allgemein das Schicksal von Wissenschaftlerinnen ein? 
+
+Gehen Sie von den Fragen aus und versuchen Sie - sofern die Zeit reicht - sich Gedanken über den weiteren Kontext (allgemein Wissenschafterlerinnen im Exil) zu machen. 
+
+Notieren Sie gerne Fragen für die Diskussion im Plenum. 
+
+
 ### Konzept der Intersektionalität
 
 * "Intersektionalität“ (von englisch Intersection = Straßenkreuzung) ist ein Konzept, das maßgeblich von Kimberlé Crenshaw (Race/Class/Gender) entwickelt wurde.
@@ -152,9 +165,13 @@ Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
 
 ![Intersektionalität](img/intersektionalitaet.png)
 
-### Wie kann das Konzept der Geschichtswissenschaft dienen?
-* Differenziertes und mehrdimensionales Verständnis von historischen Prozessen und Dynamiken.
-* Verständnis von individuellen Realitäten innerhalb homogen wirkender Gruppen.
-* Erkennen der Verwobenheit von Lebensrealitäten auf individueller Ebene.
+### Aufgabe zur nächsten Woche
 
-> Beispiel: Was bedeutete es 1953 in Deutschland, ein schwuler Mann mit Depressionen zu sein?
+Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
+
+* Baille, J. (2024). An Introduction to Prosopography. https://campus.dariah.eu/id/zGC8YxQVWeqKN51aGjkYq
+* Lemercier, C. (2019). Quantitative methods in the humanities (C. Zalc & A. Goldhammer, Eds.). University of Virginia Press, Kapitel 2 (im OLAT)
+
+Und optional: 
+
+* Verboven, K., Carlier, M., & Dumolyn, J. (2007). A short manual to the art of prosopography. In Prosopography Approaches and Applications. A Handbook (pp. 35–70). Unit for Prosopographical Research (Linacre College). http://doi.org/1854/8212 (im OLAT)
