@@ -175,3 +175,11 @@ Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
 Und optional: 
 
 * Verboven, K., Carlier, M., & Dumolyn, J. (2007). A short manual to the art of prosopography. In Prosopography Approaches and Applications. A Handbook (pp. 35–70). Unit for Prosopographical Research (Linacre College). http://doi.org/1854/8212 (im OLAT)
+
+## Sitzung am 15.05.
+
+### Forschungsprojekte im Bereich der Personenforschung 
+
+* Kieler Gelehrtenverzeichnis: https://cau.gelehrtenverzeichnis.de/?lang=de
+* Repertorium Academicum Germanicum (RAG): https://rag-online.org/
+* Schleswig-Holsteinische Pastoren der NS-Zeit: https://pastorenverzeichnis.de/ 
