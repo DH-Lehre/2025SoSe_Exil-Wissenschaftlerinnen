@@ -180,6 +180,14 @@ Und optional:
 
 ### Forschungsprojekte im Bereich der Personenforschung 
 
+Identifizieren Sie in Kleingruppen für jede der folgenden Personendatenbanken die zuvor in der Plenumsdiskussion genannten Merkmale, die für prosopographisches Arbeiten wichtig sind (Prosopon, Scope, Forschungsanliegen). 
+
+Formulieren Sie eine konkrete Forschungsfrage, die sich durch die jeweilige Datenbank beantworten ließe.
+
 * Kieler Gelehrtenverzeichnis: https://cau.gelehrtenverzeichnis.de/?lang=de
 * Repertorium Academicum Germanicum (RAG): https://rag-online.org/
 * Schleswig-Holsteinische Pastoren der NS-Zeit: https://pastorenverzeichnis.de/ 
+
+### Aufgabe zur nächsten Woche
+
+Schauen Sie sich die [Sammlung der Philosophinnen](https://liascript.github.io/course/?https://raw.githubusercontent.com/DH-Lehre/Sammlung-Philosophinnen-im-Exil/refs/heads/main/Sammlung_Philosophinnen_im_Exil.md#1) im Exil an. Identifizieren Sie das Prosopon (und dessen Ausgestaltung), den Scope und machen Sie sich Gedanken über ein mögliches Forschungsanliegen/Forschungsfragen, die mit dem Material beantwortet werden können. 
