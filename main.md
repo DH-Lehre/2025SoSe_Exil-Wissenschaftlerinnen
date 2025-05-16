@@ -191,3 +191,7 @@ Formulieren Sie eine konkrete Forschungsfrage, die sich durch die jeweilige Date
 ### Aufgabe zur nächsten Woche
 
 Schauen Sie sich die [Sammlung der Philosophinnen](https://liascript.github.io/course/?https://raw.githubusercontent.com/DH-Lehre/Sammlung-Philosophinnen-im-Exil/refs/heads/main/Sammlung_Philosophinnen_im_Exil.md#1) im Exil an. Identifizieren Sie das Prosopon (und dessen Ausgestaltung), den Scope und machen Sie sich Gedanken über ein mögliches Forschungsanliegen/Forschungsfragen, die mit dem Material beantwortet werden können. 
+
+Lesen Sie zur folgenden Sitzung bitte außerdem (im OLAT Materialverzeichnis zu finden):
+
+* Drucker, J. (2021). Data modeling and use. In The Digital Humanities Coursebook. An Introduction to Digital Methods for Research and Scholarship. Routledge.
