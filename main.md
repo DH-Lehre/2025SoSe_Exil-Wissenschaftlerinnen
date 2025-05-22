@@ -198,5 +198,15 @@ Lesen Sie zur folgenden Sitzung bitte außerdem (im OLAT Materialverzeichnis zu 
 
 ## Sitzung am 22.05.
 
-### Datenmodell
+### Datenmodell, Entwurf
+
+### Aufgabe zur nächsten Woche 
+
+Erstellen Sie anhand des Fragenkatalogs im Text von Johanna Drucker (S. 23f.) ein Datenmodell zur Erfassung der Philosophinnen im Exil. Schicken Sie Ihre Ergebnisse bis zum (einschließlich) 02.06. an s.piotrowski@email.uni-kiel.de und ggb@informatik.uni-kiel.de.  
+
+## Sitzung am 29.05.
+
+Entfällt, weil Feiertag. 
+
+## Sitzung am 05.05.
 
