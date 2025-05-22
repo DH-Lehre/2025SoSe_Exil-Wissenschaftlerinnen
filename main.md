@@ -195,3 +195,8 @@ Schauen Sie sich die [Sammlung der Philosophinnen](https://liascript.github.io/c
 Lesen Sie zur folgenden Sitzung bitte außerdem (im OLAT Materialverzeichnis zu finden):
 
 * Drucker, J. (2021). Data modeling and use. In The Digital Humanities Coursebook. An Introduction to Digital Methods for Research and Scholarship. Routledge.
+
+## Sitzung am 22.05.
+
+### Datenmodell
+
