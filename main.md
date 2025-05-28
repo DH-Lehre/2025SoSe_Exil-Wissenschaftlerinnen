@@ -200,6 +200,18 @@ Lesen Sie zur folgenden Sitzung bitte außerdem (im OLAT Materialverzeichnis zu 
 
 ### Datenmodell, Entwurf
 
+| Kategorien   | Datentyp(en)   | Beispiel   |
+| :--------- | :--------- | :--------- |
+| Geburtsort    |      |      |
+| Geburtsdatum    | YYYY-MM-DD     | 1899-04-05 |
+| Studienort    |      |      |
+| Wirkungsort    |      |      |
+| Diskriminierungskategorien    |      |     |
+| Gründe für das Exil    |      |      |
+| Religion   |      |     |
+|     |      |      |
+
+
 ### Aufgabe zur nächsten Woche 
 
 Erstellen Sie anhand des Fragenkatalogs im Text von Johanna Drucker (S. 23f.) ein Datenmodell zur Erfassung der Philosophinnen im Exil. Schicken Sie Ihre Ergebnisse bis zum (einschließlich) 02.06. an s.piotrowski@email.uni-kiel.de und ggb@informatik.uni-kiel.de.  
