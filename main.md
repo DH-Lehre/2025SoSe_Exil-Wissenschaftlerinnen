@@ -220,5 +220,57 @@ Erstellen Sie anhand des Fragenkatalogs im Text von Johanna Drucker (S. 23f.) ei
 
 Entfällt, weil Feiertag. 
 
-## Sitzung am 05.05.
+## Sitzung am 05.06.
 
+### Datenmodell: Alle Vorschläge vereinigt
+
+**Daten zur Person:**
+
+| Kategorien   | Datentyp(en)   | Beispiel   | Nennungen |
+| :--------- | :--------- | :--------- | :--------- |
+| Name    |      |      | 5 |
+| Bild / Photo | Bilddatei (jpeg, png) |   |  1 |
+| Bildquelle, -lizenz |   |    | 1 |
+| Geburtsort    |      |      | 2 |
+| Geburtsdatum    | YYYY-MM-DD     | 1899-04-05 | 7 |
+| Sterbeort    |     |  | 3 |
+| Sterbedatum    |  YYYY-MM-DD | 1899-04-05 | 8 |
+| Nationalität / Herkunftsland |   |   | 3 |
+| Religion   |      |     | 5 |
+| Familienstand |   |   | 2 | 
+| Studienort    |      |      | 6 |
+| akademischer Grad / Karriere    |      |      | 3 |
+| Schule |   |   | 1 |
+| Studium |   |   | 1 |
+| Promotion | string, Titel der Thesis  |   | 1 |
+| Arbeitsort(e)    |      |      | 3 |
+| Institutionen/Tätigkeiten vor dem Exil |   |   | 2 |
+| Forschungsbereiche, Forschungsthemen(, Beruf?)    |      |      | 4 |
+| Fachrichtung(en)    |      |      | 1 |
+| Sprache(n) |   |   | 2 |
+| Preise / Ehrungen    |      |      | 1 |
+| Beziehungen / Netzwerke / Kontakte / Organisationen |   |   | 3 |
+
+**Daten zum Exil:**
+
+| Kategorien   | Datentyp(en)   | Beispiel   | Nennungen |
+| :--------- | :--------- | :--------- | :--------- |
+| Diskriminierungskategorien  | Kategorien |     | 6 |
+| Gründe für das Exil    |      |      | 6 |
+| Art des Exils |   | Flucht, inneres Exil, etc. | 2 |
+| Exilorte/-länder    | Liste von Orten mit Datumsangaben |      | 7 |
+| Exilzeitraum | Datumsbereich |   | 6 |
+| Institutionen/Tätigkeiten im Exil |   |   | 3 |
+| Rückkehr nach Deutschland? |   |   | 3 |
+| Im Exil verstorben? |   |   | 1 |
+| Hat im Exil weiterarbeiten können? |   |   | 1 |
+
+**Literatur/Quellen von/über die Person:**
+
+| Kategorien   | Datentyp(en)   | Beispiel   | Nennungen |
+| :--------- | :--------- | :--------- | :--------- |
+| Publikationen (im Exil) |   |   | 5 |
+| Biografische Quellen |   |   | 3 |
+| Literatur zur Person |   |   | 3 |
+| Siehe auch... |   |   | 1 |
+| Kommentar | Freitext |   | 1 |
