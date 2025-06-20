@@ -231,11 +231,11 @@ Entfällt, weil Feiertag.
 | Name    |      |      | 5 |
 | Bild / Photo | Bilddatei (jpeg, png) |   |  1 |
 | Bildquelle, -lizenz |   |    | 1 |
+| Herkunftsland |   |   | 3 |
 | Geburtsort    |      |      | 2 |
 | Geburtsdatum    | YYYY-MM-DD     | 1899-04-05 | 7 |
 | Sterbeort    |     |  | 3 |
 | Sterbedatum    |  YYYY-MM-DD | 1899-04-05 | 8 |
-| Nationalität / Herkunftsland |   |   | 3 |
 | Religion   |      |     | 5 |
 | Familienstand |   |   | 2 | 
 | Studienort    |      |      | 6 |
@@ -260,7 +260,7 @@ Entfällt, weil Feiertag.
 | Art des Exils |   | Flucht, inneres Exil, etc. | 2 |
 | Exilorte/-länder    | Liste von Orten mit Datumsangaben |      | 7 |
 | Exilzeitraum | Datumsbereich |   | 6 |
-| Institutionen/Tätigkeiten im Exil |   |   | 3 |
+| Institutionen/Tätigkeiten im Exil (m. Qualifizierung bspw. von Brüchen in der Karriere) |   |   | 3 |
 | Rückkehr nach Deutschland? |   |   | 3 |
 | Im Exil verstorben? |   |   | 1 |
 | Hat im Exil weiterarbeiten können? |   |   | 1 |
@@ -272,5 +272,60 @@ Entfällt, weil Feiertag.
 | Publikationen (im Exil) |   |   | 5 |
 | Biografische Quellen |   |   | 3 |
 | Literatur zur Person |   |   | 3 |
+| Selbstzeugnisse |  |  |  |
+| Bewertung des Exils | |  |  |
 | Siehe auch... |   |   | 1 |
 | Kommentar | Freitext |   | 1 |
+
+### Wiederholung
+
+Was bisher geschah... 
+
+### Forschungsfragen 
+
+Wie formuliert man eine Forschungsfrage? Was ist zu beachten und was macht eine *gute* Forschungsfrage aus?
+
+### Ink Shedding
+
+1. Falten Sie ein DIN A4-Blatt vertikal in der Mitte. Vervollständigen Sie auf der linken Seite des Knicks den nachfolgenden Satz. Nutzen Sie die komplette linke Seite und schreiben Sie möglichst (in Deutsch oder Englisch) leserlich! Sie haben 10 Minuten Zeit.
+
+> Das/die Thema/Schicksal/Biographie(n) ... in Bezug auf die Exilwissenschaftlerinnnen interessiert/en mich, weil ... 
+
+2. Anschließend werden alle Zettel eingesammelt, gemischt und erneut ausgeteilt. Lesen Sie den (hoffentlich fremden) Text, markieren und kommentieren Sie die Punkte, die Ihnen besonders gut gefallen und spannend sind. Achten Sie auf interessante Inhalte und kommentieren Sie bitte immer positiv, etwa so: „Großartige Idee! Dazu fällt mir auch ein, dass …“. Dazu stehen 5 bis 10 Minuten zur Verfügung.
+3. Wir wiederholen 2. ein zweites Mal.
+
+## Sitzung am 12.06.
+
+In dieser Sitzung haben wir das Datenmodell weiter diskutiert und für Nodegoat umgesetzt. 
+
+## Sitzung am 19.06.
+
+### Erfassung von Geodaten (Ortschaften)
+
+Um ein Ereignis (oder Geburt/Tod) mit einer Ortschaft zu verbinden, können Sie wie folgt vorgehen: 
+
+**1. Öffnen Sie das entsprechende Ereignis** und ändern Sie unter *Location* die *Reference* zu *Ortschaft* und *Location*, wie im Screenshot zu sehen ist:
+
+![Ereignis-Editor](img/nodegoat_person-edit.png)
+
+**2. Wählen Sie einen Ort aus oder erstellen Sie einen neuen Ort** in dem Sie auf die Suche (Feld mit Lupe) klicken. Um einen neuen Ort zu erstellen, wählen Sie *new* (am Ende der Liste) aus. Ist der Ort bereits vorhanden und auswählbar, sind sie schon fertig. Andernfalls geht es mit Schritt 3 weiter. 
+
+![Auswahl von Ortschaften](img/nodegoat_person-geo.png)
+
+**3. Wenn Sie *new* angeklickt haben, öffnet sich der Dialog zum Anlegen einer Ortschaft.** In diesem Fall müssen Sie einen Namen für die neu anzulegende Ortschaft angeben und die übrigen Informationen bei [geonames.org](https://www.geonames.org/) recherchieren (nächster Schritt).
+
+**4. Suchen Sie den Ort bei [geonames.org](https://www.geonames.org/).** Stellen Sie sicher, dass Sie die korrekte Verwaltungseinheit ausgewählt haben, das heißt, dass es sich bspw. bei dem Ort Berlin um die Stadt und nicht das Bundesland handelt. Klicken Sie auf den entsprechenden Eintrag. Sie erhalten eine Übersicht, wie im Screenshot. Kopieren Sie die Einträge für *langitude*, *latitude*, sowie die *Geonames-ID* (im Screenshot hervorgehoben).
+
+![geonames](img/nodegoat_geonames.png)
+
+**5. Fügen Sie die kopierten Informationen in Nodegoat in Ihren Eintrag für die Ortschaft ein.** Alle Informationen müssen vorhanden sein. Wenn Sie das Fenster schließen. Ist die neu angelegte Ortschaft automatisch für das Ereignis ausgewählt. 
+
+![Ortschaft mit allen notwendigen Informationen](img/nodegoat_ortschaft-edit.png)
+
+**Fertig!**
+
+### Aufgabe zur nächsten Woche 
+
+Bitte vervollständigen Sie die Informationen zu Ihren drei Philosophinnen in Nodegoat so weit, wie möglich. 
+
+Melden Sie sich bei uns, falls Sie auf Probleme stoßen oder Fragen haben!
