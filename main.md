@@ -329,3 +329,15 @@ Um ein Ereignis (oder Geburt/Tod) mit einer Ortschaft zu verbinden, können Sie 
 Bitte vervollständigen Sie die Informationen zu Ihren drei Philosophinnen in Nodegoat so weit, wie möglich. 
 
 Melden Sie sich bei uns, falls Sie auf Probleme stoßen oder Fragen haben!
+
+## Sitzung am 26.06.
+
+### Analyse der Daten: Fragestellungen
+
+* Welche Diskriminierungsdimensionen werden am häufigsten als Grund für Flucht und Exil genannt?
+* Wie viele der Wissenschaftlerinnen waren verheiratet / hatten Kinder und gingen den Weg ins Exil?
+* Welche Länder im Ausland boten den Wissenschaftlerinnen eine Fortführung ihrer Karriere?
+* Wie viele kehrten in ihre Heimat zurück?
+* Wenn die Diskiminierung aufgrund der jüdischen Herkunft erfolgte, für welches Exilland entschieden sich die Frauen?
+* Können Verbindungen und Netzwerke innerhalb der Gruppe von Wissenschaftlerinnen nachgewiesen werden?
+  
