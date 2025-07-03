@@ -334,10 +334,20 @@ Melden Sie sich bei uns, falls Sie auf Probleme stoßen oder Fragen haben!
 
 ### Analyse der Daten: Fragestellungen
 
-* Welche Diskriminierungsdimensionen werden am häufigsten als Grund für Flucht und Exil genannt?
 * Wie viele der Wissenschaftlerinnen waren verheiratet / hatten Kinder und gingen den Weg ins Exil?
+* Welche Diskriminierungsdimensionen werden am häufigsten als Grund für Flucht und Exil genannt?
 * Welche Länder im Ausland boten den Wissenschaftlerinnen eine Fortführung ihrer Karriere?
 * Wie viele kehrten in ihre Heimat zurück?
 * Wenn die Diskiminierung aufgrund der jüdischen Herkunft erfolgte, für welches Exilland entschieden sich die Frauen?
 * Können Verbindungen und Netzwerke innerhalb der Gruppe von Wissenschaftlerinnen nachgewiesen werden?
   
+### Aufgabe für nächste Woche und für die Abschlusspräsentation
+
+In der letzten Sitzung halten Sie eine kurze Abschlusspräsentation, die max. 5 Minuten lang sein darf (hartes Zeitlimit!). Die Präsentation sollte:
+
+* eine Fragestellung für die gesamte Sammlung der Philosophinnen beantworten 
+* anhand einzelner (ein bis drei) Philosophinnen illustrieren
+* Literaturarbeit beinhalten, min. drei abseits des zur Verfügung gestellten Materials
+* 3 bis 5 Präsentationsfolien beinhalten; Sie dürfen auch gerne kreativ werden und ein anderes Medium der Präsentation wählen 
+
+Erstellen Sie bis zum 03.07. (Arbeitssitzung) einen groben Plan bzw. eine Skizze Ihres Projekts. Machen Sie sich Gedanken, was Sie an weiteren Informationen und Hilfe benötigen.
