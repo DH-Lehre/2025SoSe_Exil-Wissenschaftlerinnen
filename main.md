@@ -351,3 +351,11 @@ In der letzten Sitzung halten Sie eine kurze Abschlusspräsentation, die max. 5 
 * 3 bis 5 Präsentationsfolien beinhalten; Sie dürfen auch gerne kreativ werden und ein anderes Medium der Präsentation wählen 
 
 Erstellen Sie bis zum 03.07. (Arbeitssitzung) einen groben Plan bzw. eine Skizze Ihres Projekts. Machen Sie sich Gedanken, was Sie an weiteren Informationen und Hilfe benötigen.
+
+## Sitzung am 03.07.
+
+Arbeitssitzung 
+
+## Sitzung am 10.07.
+
+Abschlusspräsentationen
